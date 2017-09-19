@@ -18,13 +18,13 @@ I am a highly creative person both personally and professionally. I enjoy the pr
 
 - Talk about a building website with no prior knowledge
 - Talk about creating contract for Bentley
-- www.medium.com/davidhalewood * make link
+- https://medium.com/@davidhalewood
 
 ## Education
 
 #### Makers Academy (September to December)
 
-- Curious and passionate about code. [PROVIDE EVIDENCE]
+- Curious and passionate about code. *I embarked on a self-study of CSS, HTML and Javascript whilst in my last role and have previously taught myself to build and manage websites using Wordpress and Visual Composer. THe best example of which can be found here.
 - Fast, independent learner [PROVIDE EVIDENCE]
 - Great collaborator [PROVIDE EVIDENCE]
 
