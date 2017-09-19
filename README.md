@@ -14,24 +14,26 @@ Experienced manager of people and projects. * add more
 
 #### Creativity
 
-I am a highly creative person both personally and professionally. I enjoy the process of bringing projects to life from idea through to creation. I also find that being creative helps me to craft code using best practices that can overcome difficult challenges.
+I consider myself a highly creative person both personally and professionally. I enjoy the process of bringing projects to life from idea through to creation. I also find that being creative helps me to craft code using best practices that can overcome difficult challenges.
 
-- Talk about a building website with no prior knowledge
-- Talk about creating contract for Bentley
-- https://medium.com/@davidhalewood
+- I have written, communicated and effectively delivered lessons to previously unengaged inner city teenagers
+- In my last role I was responsible for the creation of all marketing materials, including website and social media platforms, from design to implementation.
+- My blog documenting my journey through Makers Academy https://medium.com/@davidhalewood
 
 ## Education
 
 #### Makers Academy (September to December)
 
-- Curious and passionate about code. *I embarked on a self-study of CSS, HTML and Javascript whilst in my last role and have previously taught myself to build and manage websites using Wordpress and Visual Composer. THe best example of which can be found here.
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
+- Curious and passionate about code. *I have always held a deep appreciation for technology and coding which stems from my upbringing as the son and younger brother of developers. From the moment I used MSDOS to encode a single MP3 to today I have constantly utilised my passion for technology to drive business forward. Although it is only recently I have pursued a career in software development it has been a long time coming.*
+- Fast, independent learner. *I embarked on a self-study of CSS, HTML and Javascript whilst in my last role and have previously taught myself to build and manage websites using Wordpress and Visual Composer. The best example of which can be found [here](www.resincoatingspecialists.com)*.
+- Great collaborator. *Although an accomplished and proven self-starter, having built my own personal training business, I excel most as part of a team. I have a deep understanding of the importance of soft-skills such as communication, conflict management, trust and the leadership required to function as an effective team. At Makers I am learning the essential hard-skills needed to collaborate on projects that include:
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- RSpec, Jasmine  
+
+## Ecucation  
 
 #### University of Wales, Bangor (2001 - 2004)
 
@@ -46,7 +48,7 @@ I am a highly creative person both personally and professionally. I enjoy the pr
 *Contracts Manager*  
 **YMCA, New York, USA** (2008 - 2015)   
 *Program Director/Personal Trainer*  
-**Intercontinental Hotel, Melbourne, Australia** (2006 - 2007)
+**Intercontinental Hotel, Melbourne, Australia** (2006 - 2007)  
 *Engineer*  
-**Crown Plaza, Liverpool** (2004 - 2006)
+**Crown Plaza, Liverpool** (2004 - 2006)  
 *Gym Manager/Personal Trainer*
