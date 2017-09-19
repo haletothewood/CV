@@ -45,8 +45,8 @@ I am a highly creative person both personally and professionally. I enjoy the pr
 **Resin Coating Specialists, Wirral, UK** (2015 - 2017)    
 *Contracts Manager*  
 **YMCA, New York, USA** (2008 - 2015)   
-*Program Director/Personal Trainer*
+*Program Director/Personal Trainer*  
 **Intercontinental Hotel, Melbourne, Australia** (2006 - 2007)
-*Engineer*
+*Engineer*  
 **Crown Plaza, Liverpool** (2004 - 2006)
 *Gym Manager/Personal Trainer*
