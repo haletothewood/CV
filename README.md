@@ -24,9 +24,9 @@ I consider myself a highly creative person both personally and professionally. I
 
 #### Makers Academy (September to December)
 
-- Curious and passionate about code. *I have always held a deep appreciation for technology and coding which stems from my upbringing as the son and younger brother of developers. From the moment I used MSDOS to encode a single MP3 to today I have constantly utilised my passion for technology to drive business forward. Although it is only recently I have pursued a career in software development it has been a long time coming.*
-- Fast, independent learner. *I embarked on a self-study of CSS, HTML and Javascript whilst in my last role and have previously taught myself to build and manage websites using Wordpress and Visual Composer. The best example of which can be found [here](www.resincoatingspecialists.com)*.
-- Great collaborator. *Although an accomplished and proven self-starter, having built my own personal training business, I excel most as part of a team. I have a deep understanding of the importance of the soft-skills such as communication, conflict management, trust and leadership that are required to function as an effective team. At Makers I am learning the essential hard-skills needed to collaborate on projects that include:
+- Curious and passionate about code - *I have always held a deep appreciation for technology and coding which stems from my upbringing as the son and younger brother of developers. From the moment I used MSDOS to encode a single MP3 to today I have constantly utilised my passion for technology to drive business forward. Although it is only recently I have pursued a career in software development it has been a long time coming.*
+- Fast, independent learner - *I embarked on a self-study of CSS, HTML and Javascript whilst in my last role and have previously taught myself to build and manage websites using Wordpress and Visual Composer. The best example of which can be found [here](www.resincoatingspecialists.com)*.
+- Great collaborator - *Although an accomplished and proven self-starter, having built my own personal training business, I excel most as part of a team. I have a deep understanding of the importance of the soft-skills such as communication, conflict management, trust and leadership that are required to function as an effective team. At Makers I am learning the essential hard-skills needed to collaborate on projects that include:*
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
