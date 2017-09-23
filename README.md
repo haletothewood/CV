@@ -6,9 +6,9 @@
 
 Previously, as a contracts manager, outdoor education director and gym manager I have been involved in a range of digital and technological projects that have, over time, inspired me to take a leap and pursue a career in tech. From teaching myself basic html and css via YouTube videos and the fundamentals of both Ruby and Javascript via Codecademy I now find myself enrolled at [Makers Academy](http://www.makersacademy.com/), a highly selective 12 week coding bootcamp designed to produce work-ready software developers.
 
-Upon completion of the course I will be looking for a role in an progressive and challenging environment within an ambitious company that allows me to continue to develop best coding practices.
+Upon completion of the course I will be looking for a role in an progressive and challenging environment within an ambitious company that allows me to continue to develop and grow as a developer.
 
-I work best when I am striving towards a mission, vision and values that I can truly believe in and that my productivity is strongly linked with both my own goals and that of the company.
+I work best when I am striving towards a mission, vision and values that I can truly believe in and where productivity is strongly linked with both my own goals and that of the company.
 
 __Tech Skills__: Ruby, TDD, Pair-Programming, Agile, XP Values, Version Control
 
@@ -16,7 +16,7 @@ __Tech Skills__: Ruby, TDD, Pair-Programming, Agile, XP Values, Version Control
 
 GitHub Repo | Description | Tech | Blog Post
 -------------|-------------|------|--------|
-[SpaceSnake](https://github.com/haletothewood/SpaceSnake) | I'm very proud of my first efforts at completing a 2D game. Even though the framework was provided during an event I was able to take it further using the Gosu documentation. | Ruby, Gosu | Coming Soon
+[SpaceSnake](https://github.com/haletothewood/SpaceSnake) | I'm very proud of my first efforts at completing a 2D game. Even though the framework was provided during an event I was able to take it further using the Gosu documentation, adding to the functionality and design. | Ruby, Gosu | Coming Soon
 
 ## Side Projects
 
@@ -79,7 +79,7 @@ Although an accomplished and proven self-starter, having built my own personal t
 
 **Life Experience** (1983 - 2017)  
 
-I have travelled extensively both for work and for pleasure something that I am incredibly proud of. It has required an incredible amount of hard work and perseverance as well as the right people believing in me at the right time. Through my experiences I have learned a great deal about and come to appreciate and love the differences in us all, culturally, ethnically, socially and of course individually. Yet, more powerfully I have learned infinitely more about that which can bring us together; compassion, a desire to connect, insatiable curiosity and acceptance amongst so much more.
+I have travelled extensively both for work and for pleasure something that I am incredibly proud of. It has required an incredible amount of hard work and perseverance as well as the right people believing in me at the right time. Through my experiences I have learned a great deal about, and come to appreciate, the differences in us all. Whether culturally, ethnically, socially or of course individually. Yet, and more powerfully I have learned about that which can bring us together; compassion, a desire to connect, insatiable curiosity and acceptance amongst so much more.
 
 ## Education
 
