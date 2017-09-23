@@ -1,54 +1,112 @@
-## David Halewood
+# David Halewood
 
-I have spent most of my adult years driven to help others become their best self. Whether as a personal trainer, an educator, or manager I have always been passionate about personal and professional development. It is this same drive and desire that leads me to constantly challenge myself and look for opportunities of growth. This is how I now find myself enrolled at the software developer bootcamp Makers Academy, a highly selective 12 week program. Upon completion of the course I will be looking for a junior developer role in a supportive yet challenging environment that allows me to continue to develop best coding practices.
+[Projects](#projects) | [Side-Projects](#side-projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests)
+
+## About
+
+Previously, as a contracts manager, outdoor education director and gym manager I have been involved in a range of digital and technological projects that have, over time, inspired me to take a leap and pursue a career in tech. From teaching myself basic html and css via YouTube videos and the fundamentals of both Ruby and Javascript via Codecademy I now find myself enrolled at [Makers Academy](http://www.makersacademy.com/), a highly selective 12 week coding bootcamp designed to produce work-ready software developers.
+
+Upon completion of the course I will be looking for a role in an progressive and challenging environment within an ambitious company that allows me to continue to develop best coding practices.
+
+I work best when I am striving towards a mission, vision and values that I can truly believe in and that my productivity is strongly linked with both my own goals and that of the company.
+
+__Tech Skills__: Ruby, TDD, Pair-Programming, Agile, XP Values, Version Control
+
+## Projects
+
+GitHub Repo | Description | Tech | Blog Post
+-------------|-------------|------|--------|
+[SpaceSnake](https://github.com/haletothewood/SpaceSnake) | I'm very proud of my first efforts at completing a 2D game. Even though the framework was provided during an event I was able to take it further using the Gosu documentation. | Ruby, Gosu | Coming Soon
+
+## Side Projects
+
+From the very beginning of my journey into coding I have experimented with small projects as I enjoy the creative process and I gain a great sense of satisfaction upon completing what I set out to achieve. These include:
+
+- [LFC Team Selector](https://github.com/haletothewood/LFCTeamSelector)
+  - A command line program written in Ruby, created upon completion of the Codecademy intro to Ruby. First time working with saving, loading and printing a file to screen.
+
+- [Phlash](https://github.com/haletothewood/Phlash)
+  - A chrome extension that displays a selection of randomised flash cards
+
+- Nice to See You
+  - A simple Alexa Skill created to simply understand more about AWS and creating Lambda functions. Upon the invocation "Nice to see you" Alexa replies..."To see you, nice!"
 
 ## Skills
-
-#### Management
-
-I am an effective and dedicated manger of people, resources and projects. I have lead teams as small as 3 and as large as 200 yet the importance of a shared vision, individual goals, positive culture, and trust remains the same. It is vital that team members understand what is required of them, and the team, and feel inspired to achieve their best. I have successfully project managed on an industrial scale from tendering to completion in my last role. I also have considerable experience in facilities management.
-
-- People Management; involved in the hiring, training and supervision of hundreds of staff; effective at motivating staff through SMART goals, setting and communicating KPIs and performance appraisals
-- Project Management; planning, resource and cost management, implementation, contract completion
-- Facility Management; safety audits, COSHH, risk assessments and method statements, plant maintenance, inventory, accreditation compliance 
 
 #### Creativity
 
 I consider myself a highly creative person both personally and professionally. I enjoy the process of bringing projects to life from idea through to creation. I also find that being creative helps me to craft code using best practices that can overcome difficult challenges.
 
-- I have written, communicated and effectively delivered lessons to previously unengaged inner city teenagers
+- I have designed, communicated and effectively delivered outdoor education lessons to previously unengaged inner city teenagers
 - In my last role I was responsible for the creation of all marketing materials, including website and social media platforms, from design to implementation.
+- I love to create and tinker, whether building a workbench, [modding gameboy's](https://twitter.com/halewood_retro/status/688712166480949249), taking photos, [throwing pots](https://twitter.com/halewood_retro/status/722414241068748800) or making music. I am constantly putting my mind and hands to task.
 - My blog documenting my journey through Makers Academy https://medium.com/@davidhalewood
 
-## Education
+#### Logical/Analytical Thinker
 
-#### Makers Academy (September to December)
+Logical thinking has always been a strength and something that was forged from an early age by my parents, using a plethora of card and board games, most notably chess. This was continually fostered throughout my school years with wonderfully challenging Science and Math teachers who pushed me to explore what I was capable of.
 
-- Curious and passionate about code - *I have always held a deep appreciation for technology and coding which stems from my upbringing as the [son and younger brother of developers](https://medium.com/@davidhalewood/why-i-chose-makers-academy-to-learn-to-code-1100c7d3b179). From the moment I used MSDOS to encode a single MP3 to today I have constantly utilised my passion for technology to drive business forward. Although it is only recently I have pursued a career in software development it has been a long time coming.*
-- Fast, independent learner - *I embarked on a self-study of CSS, HTML and Javascript whilst in my last role and have previously taught myself to build and manage websites using Wordpress and Visual Composer. The best example of which can be found [here](http://www.resincoatingspecialists.com)*.
-- Great collaborator - *Although an accomplished and proven self-starter, having built my own personal training business, I excel most as part of a team. I have a deep understanding of the importance of the soft-skills such as communication, conflict management, trust and leadership that are required to function as an effective team. At Makers I am learning the essential hard-skills needed to collaborate on projects that include:*
+Most recently I have been critiquing complex contracts, and taking point on major construction projects that require logistical thinking on an industrial scale. It has really instilled in me the importance of taking in the view at 30,000 feet (eg, Diagraming) and placing both feet on solid ground at the same time (eg, UI/UX).
 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine  
+#### Fast, Independent Learner
 
-## Ecucation  
+I embarked on a self-study of CSS, HTML and Javascript whilst in my last role and have previously taught myself to build and manage websites using Wordpress and Visual Composer. The best example of which can be found [here](http://www.resincoatingspecialists.com). I have only been studying Ruby and programming in general since June and am proud of the progress I've made to date.
 
-#### University of Wales, Bangor (2001 - 2004)
-
-- BSc (Hons) Sport Science
-
-#### NVQ L3 Operations and Management (2004 - 2005)
-#### NVQ L3 Personal Training (2005 - 2006)
+#### Collaborator
+Although an accomplished and proven self-starter, having built my own personal training business, I excel most as part of a team. I have a deep understanding of the importance of the soft-skills such as communication, conflict management, trust and leadership that are required to function as an effective team.
 
 ## Experience
 
-**Resin Coating Specialists, Wirral, UK** (2015 - 2017)    
-*Contracts Manager*  
-**YMCA, New York, USA** (2008 - 2015)   
-*Program Director/Personal Trainer*  
-**Intercontinental Hotel, Melbourne, Australia** (2006 - 2007)  
-*Engineer*  
-**Crown Plaza, Liverpool** (2004 - 2006)  
+**Resin Coating Specialists, Wirral, UK** (2015 - 2017)
+*Contracts Manager*
+- Project Management; Fiscal Management; Communication; Analytics
+
+**YMCA, New York, USA** (2008 - 2015)
+*Program Director*
+- Education Design, Communication and Delivery; Team Management; Recruitment; Sales; Presentations
+
+**Intercontinental Hotel, Melbourne, Australia** (2006 - 2007)
+*Engineer*
+- Problem Solving, Technical Experience
+
+**Fitness First, Sydney, Australia** (2006)
+*Sales Manager*
+- Direct Sales; Results Driven; Competitive Environment
+
+**Crown Plaza, Liverpool** (2004 - 2006)
 *Gym Manager/Personal Trainer*
+- Facility Management; Team Management; Logistics; Fiscal Responsibility; Program Design
+
+**Life Experience** (1983 - 2017)  
+
+I have travelled extensively both for work and for pleasure something that I am incredibly proud of. It has required an incredible amount of hard work and perseverance as well as the right people believing in me at the right time. Through my experiences I have learned a great deal about and come to appreciate and love the differences in us all, culturally, ethnically, socially and of course individually. Yet, more powerfully I have learned infinitely more about that which can bring us together; compassion, a desire to connect, insatiable curiosity and acceptance amongst so much more.
+
+## Education
+
+#### Makers Academy (Sep - Dec 2017)
+
+- Object Oriented Programming
+- Test Driven Development
+- Full-Stack Web Developmet
+- Agile Methodologies
+- XP Values
+- Independent Learning and Project Management
+
+#### University of Wales, Bangor (2001 - 2004)
+
+BSc (Hons) Sport Science
+- Including modules in Statistics, Biodynamics, Kinesiology, Sociology, Psychology and Nutrition
+
+#### Additional Qualifications
+- Y of the USA Team Leader Certificate
+- Personal Training Cert.
+- Nutrition and Weight Management Cert.
+- NVQ L3 Operations and Management
+- Teaching English as a Foreign Language (TEFL)
+
+## Interests
+
+- __Retro Gaming__ - I have been modding and refurbishing retro consoles mostly for fun, but sometimes to sell, if I get it right!
+- __Running__ - I have competed in many 5K, 10K and half-marathon events, raising thousands for charitable causes. I have also been part of two Ragnar Relay teams running from Upstate New York to Manhattan and from LA to San Diego
+- __Music__ - I am a self-taught guitar and piano player and play daily. I also regularly attend gigs and open mic sessions.
+- __Pottery__ - Using YouTube videos I learned how to throw last year and I now co-own a wheel and kiln and regularly produce ceramics and tableware as gifts.
