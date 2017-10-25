@@ -6,16 +6,16 @@
 
 Previously, as a contracts manager, outdoor education director and gym manager I have been involved in a range of digital and technological projects that have, over time, inspired me to take a leap and pursue a career in tech. From teaching myself basic html and css via YouTube videos and the fundamentals of both Ruby and Javascript via Codecademy I now find myself enrolled at [Makers Academy](http://www.makersacademy.com/), a highly selective 12 week coding bootcamp designed to produce work-ready software developers.
 
-Upon completion of the course I will be looking for a role in an progressive and challenging environment within an ambitious company that allows me to continue to develop and grow as a developer.
+Upon completion of the course I will be looking for a role in a progressive and challenging environment within an ambitious company that allows me to continue to develop and grow as a developer.
 
 I work best when I am striving towards a mission, vision and values that I can truly believe in and where productivity is strongly linked with both my own goals and that of the company.
 
-__Tech Skills__: Ruby, TDD, Pair-Programming, Agile, XP Values, Version Control
+__Tech Skills__: Ruby, JavaScript, SQL, DataMapper, Sinatra, Rails, TDD, Pair-Programming, Agile, XP Values, Version Control
 
 ## Projects
 
-GitHub Repo | Description | Tech | Blog Post
--------------|-------------|------|--------|
+GitHub Repo | Description | Tech |
+-------------|-------------|------|
 [SpaceSnake](https://github.com/haletothewood/SpaceSnake) | I'm very proud of my first efforts at completing a 2D game. Even though the framework was provided during an event I was able to take it further using the Gosu documentation, adding to the functionality and design. | Ruby, Gosu | Coming Soon
 
 ## Side Projects
