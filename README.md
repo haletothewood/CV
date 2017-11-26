@@ -17,7 +17,7 @@ __Tech Skills__: Ruby, JavaScript, SQL, DataMapper, Sinatra, Rails, TDD, Pair-Pr
 | GitHub Repo | Description | Tech | Product
 | ----------- | ----------- | ---- | ----
 | [BusBuddy](https://github.com/haletothewood/BusBuddy) | An Alexa Skill that uses the public TFL API to set a preffered bus stop and updates user on the live arrival times of the next three buses. | Node.js, Alexa, Lambda, DynamoDB | [Demo](https://www.youtube.com/watch?v=lbkjaF0eito)
-| [Newsli](https://github.com/haletothewood/Newsli) | A news summary application using the Guardian API to provide the top 10 headlines in list form. Clicking on a headline shows you a single article view with a summary. | Javascript | [Here](http://newsli-app.herokuapp.com/home.html)
+| [Newsli](https://github.com/haletothewood/Newsli) | A news summary application using the Guardian API to provide the top 10 headlines in list form. Clicking on a headline shows you a single article view with a summary. Designed for mobile. | Javascript | [Here](http://newsli-app.herokuapp.com/home.html)
 | [SpaceSnake](https://github.com/haletothewood/SpaceSnake) | I'm very proud of my first efforts at completing a 2D game. Even though the framework was provided during an event I was able to take it further using the Gosu documentation, adding to the functionality and design. | Ruby, Gosu | Coming Soon
 
 ## Side Projects
