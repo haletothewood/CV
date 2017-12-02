@@ -4,11 +4,9 @@
 
 ## About
 
-Previously, as a contracts manager, outdoor education director and gym manager I have been involved in a range of digital and technological projects that have, over time, inspired me to take a leap and pursue a career in tech. From teaching myself basic html and css via YouTube videos and the fundamentals of both Ruby and Javascript via Codecademy I now find myself enrolled at [Makers Academy](http://www.makersacademy.com/), a highly selective 12 week coding bootcamp designed to produce work-ready software developers.
+I have been involved in a range of digital and technological projects that have, over time, inspired me to take a leap and pursue a career in tech. From teaching myself basic html and css via YouTube videos and the fundamentals of both Ruby and Javascript via Codecademy to enrolling at [Makers Academy](http://www.makersacademy.com/), a highly selective 12 week coding bootcamp designed to produce work-ready software developers.
 
-Upon completion of the course I will be looking for a role in a progressive and challenging environment within an ambitious company that allows me to continue to develop and grow as a developer.
-
-I work best when I am striving towards a mission, vision and values that I can truly believe in and where productivity is strongly linked with both my own goals and that of the company.
+I am looking for a role in a progressive and challenging environment within an ambitious company that allows me to continue to develop and grow as a developer. I work best when I am striving towards a mission, vision and values that I can truly believe in and where productivity is strongly linked with both my own goals and that of the company.
 
 __Tech Skills__: Ruby, JavaScript, SQL, DataMapper, Sinatra, Rails, TDD, Pair-Programming, Agile, XP Values, Version Control
 
@@ -37,18 +35,11 @@ From the very beginning of my journey into coding I have experimented with small
 
 #### Creativity
 
-I consider myself a highly creative person both personally and professionally. I enjoy the process of bringing projects to life from idea through to creation. I also find that being creative helps me to craft code using best practices that can overcome difficult challenges.
-
-- I have designed, communicated and effectively delivered outdoor education lessons to previously unengaged inner city teenagers
-- In my last role I was responsible for the creation of all marketing materials, including website and social media platforms, from design to implementation.
-- I love to create and tinker, whether building a workbench, [modding gameboy's](https://twitter.com/halewood_retro/status/688712166480949249), taking photos, [throwing pots](https://twitter.com/halewood_retro/status/722414241068748800) or making music. I am constantly putting my mind and hands to task.
-- My blog documenting my journey through Makers Academy https://medium.com/@davidhalewood
+I have designed, communicated and effectively delivered outdoor education lessons to previously unengaged inner city teenagers. In my last role I was responsible for the creation of all marketing materials, including website and social media platforms, from design to implementation. I love to create and tinker, whether building a workbench, [modding gameboy's](https://twitter.com/halewood_retro/status/688712166480949249), taking photos, [throwing pots](https://twitter.com/halewood_retro/status/722414241068748800) or making music. I am constantly putting my mind and hands to task. I also created a [podcast](https://makersacademy.podbean.com/) documenting my journey through Makers Academy
 
 #### Logical/Analytical Thinker
 
-Logical thinking has always been a strength and something that was forged from an early age by my parents, using a plethora of card and board games, most notably chess. This was continually fostered throughout my school years with wonderfully challenging Science and Math teachers who pushed me to explore what I was capable of.
-
-Most recently I have been critiquing complex contracts, and taking point on major construction projects that require logistical thinking on an industrial scale. It has really instilled in me the importance of taking in the view at 30,000 feet (eg, Diagraming) and placing both feet on solid ground at the same time (eg, UI/UX).
+I enjoy solving problems, it's a key reason why I've decided to become a devloper. Within my last role I was critiquing complex contracts, and taking point on major construction projects that require logistical thinking on an industrial scale. I am a keen chess player ([play me](https://www.chess.com/member/haletothewood)) and constantly look for new challenges to keep mye sharp, such as this
 
 #### Fast, Independent Learner
 
