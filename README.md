@@ -1,6 +1,6 @@
 # David Halewood
 
-[Projects](#projects) | [Side-Projects](#side-projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests)
+[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests)
 
 ## About
 
@@ -19,19 +19,6 @@ __Tech Skills__: Ruby, JavaScript, SQL, DataMapper, Sinatra, Rails, TDD, Pair-Pr
 | [Newsli](https://github.com/haletothewood/Newsli) | A news summary application using the Guardian API to provide the top 10 headlines in list form. Clicking on a headline shows you a single article view with a summary. Designed for mobile. | Javascript | [Here](http://newsli-app.herokuapp.com/home.html)
 | [SpaceSnake](https://github.com/haletothewood/SpaceSnake) | I'm very proud of my first efforts at completing a 2D game. Even though the framework was provided during an event I was able to take it further using the Gosu documentation, adding to the functionality and design. | Ruby, Gosu | Coming Soon
 
-## Side Projects
-
-From the very beginning of my journey into coding I have experimented with small projects as I enjoy the creative process and I gain a great sense of satisfaction upon completing what I set out to achieve. These include:
-
-- [LFC Team Selector](https://github.com/haletothewood/LFCTeamSelector)
-  - A command line program written in Ruby, created upon completion of the Codecademy intro to Ruby. First time working with saving, loading and printing a file to screen.
-
-- [Phlash](https://github.com/haletothewood/Phlash)
-  - A chrome extension that displays a selection of randomised flash cards
-
-- [Aladdin](https://github.com/haletothewood/Aladdin)
-  - A light testing suite for Javascript written as part of a larger project to write a single-page application without using libraries or frameworks.
-
 ## Skills
 
 #### Creativity
@@ -47,7 +34,7 @@ I enjoy solving problems, it's a key reason why I've decided to become a devlope
 I embarked on a self-study of CSS, HTML and Javascript whilst in my last role and have previously taught myself to build and manage websites using Wordpress and Visual Composer. The best example of which can be found [here](http://www.resincoatingspecialists.com). I have only been studying Ruby and programming in general since June and am proud of the progress I've made to date.
 
 #### Collaborator
-Although an accomplished and proven self-starter, having built my own personal training business, I excel most as part of a team. I have a deep understanding of the importance of the soft-skills such as communication, conflict management, trust and leadership that are required to function as an effective team.
+Although an accomplished and proven self-starter, having built my own personal training business, I excel most as part of a team. I have a deep understanding of the importance of the soft-skills such as communication, conflict management, trust and leadership that are required to function as an effective team. 
 
 ## Experience
 
@@ -67,7 +54,7 @@ Although an accomplished and proven self-starter, having built my own personal t
 *Sales Manager*
 - Direct Sales; Results Driven; Competitive Environment
 
-**Crown Plaza, Liverpool** (2004 - 2006)
+**Crown Plaza, Liverpool** (2004 - 2008)
 *Gym Manager/Personal Trainer*
 - Facility Management; Team Management; Logistics; Fiscal Responsibility; Program Design
 
