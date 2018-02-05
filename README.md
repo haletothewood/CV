@@ -38,6 +38,10 @@ Although an accomplished and proven self-starter, having built my own personal t
 
 ## Experience
 
+**Red Gate Software, Cambridge, UK** (2018 - )
+*Software Engineer*
+- Research and Development; Agile Environment; CI/CD; C#, React
+
 **Resin Coating Specialists, Wirral, UK** (2015 - 2017)
 *Contracts Manager*
 - Project Management; Fiscal Management; Communication; Analytics
