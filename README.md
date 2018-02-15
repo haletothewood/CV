@@ -40,7 +40,7 @@ Although an accomplished and proven self-starter, having built my own personal t
 
 **Red Gate Software, Cambridge, UK** (2018 - )
 *Software Engineer*
-- Research and Development; Agile Environment; CI/CD; C#, React
+- Research and Development; .Net, C#, React, SQL, Azure
 
 **Resin Coating Specialists, Wirral, UK** (2015 - 2017)
 *Contracts Manager*
