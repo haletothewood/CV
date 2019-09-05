@@ -6,20 +6,13 @@
 
 I have been involved in a range of digital and technological projects that have, over time, inspired me to take a leap and pursue a career in tech. From teaching myself basic html and css via YouTube videos and the fundamentals of both Ruby and Javascript via Codecademy to enrolling at [Makers Academy](http://www.makersacademy.com/), a highly selective 12 week coding bootcamp designed to produce work-ready software developers.
 
+I have spent the last 2 years honing my skills and developing a deeper understanding of what 'good code' looks like. In doing that I have participated in unconferences, lightning talks, helped organize a tech conference, and hosted a meet-up. I am a keen learner and always striving to improve myself and my team. 
+
 I am looking for a role in a progressive and challenging environment within an ambitious company that allows me to continue to develop and grow as a developer. I work best when I am striving towards a mission, vision and values that I can truly believe in and where productivity is strongly linked with both my own goals and that of the company.
 
-__Tech Skills__: Ruby, JavaScript, SQL, DataMapper, Sinatra, Rails, TDD, Pair-Programming, Agile, XP Values, Version Control
+__Tech Skills__: .NET, Java, Node.js, React, SQL and NoSQL DBs, AWS, Azure, DevOps, Docker, K8s, TDD, Pair-Programming, XP
 
-## Projects
-
-| GitHub Repo | Description | Tech | Product
-| ----------- | ----------- | ---- | ----
-| [Neighbour.ly](https://github.com/haletothewood/neighbourly-app) | A single page application written using React that allows users to post to location based message forums. | React, websockets, Google Maps API | [Presentation](https://www.facebook.com/MakersAcademy/videos/vb.367457470014643/1525253554235023/?type=2&theater)
-| [BusBuddy](https://github.com/haletothewood/BusBuddy) | An Alexa Skill that uses the public TFL API to set a preffered bus stop and updates user on the live arrival times of the next three buses. | Node.js, Alexa, Lambda, DynamoDB | [Demo](https://www.youtube.com/watch?v=lbkjaF0eito)
-| [Newsli](https://github.com/haletothewood/Newsli) | A news summary application using the Guardian API to provide the top 10 headlines in list form. Clicking on a headline shows you a single article view with a summary. Designed for mobile. | Javascript | [Here](http://newsli-app.herokuapp.com/home.html)
-| [SpaceSnake](https://github.com/haletothewood/SpaceSnake) | I'm very proud of my first efforts at completing a 2D game. Even though the framework was provided during an event I was able to take it further using the Gosu documentation, adding to the functionality and design. | Ruby, Gosu | Coming Soon
-
-## Skills
+## Other Skills
 
 #### Creativity
 
@@ -38,9 +31,13 @@ Although an accomplished and proven self-starter, having built my own personal t
 
 ## Experience
 
-**Red Gate Software, Cambridge, UK** (2018 - )
+**Codurance, London, UK** (July 2019 - )
+*Software Craftsperson Apprentice*
+- Java, XP, Design Patterns, Macro Design, SOLID Principles, AWS, Docker
+
+**Red Gate Software, Cambridge, UK** (Jan 2018 - July 2019)
 *Software Engineer*
-- Research and Development; .Net, C#, React, SQL, Azure
+- Research and Development; .Net, C#, React, SQL, Azure, Docker, Kubernetes
 
 **Resin Coating Specialists, Wirral, UK** (2015 - 2017)
 *Contracts Manager*
