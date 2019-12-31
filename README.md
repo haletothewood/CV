@@ -32,7 +32,7 @@ Although an accomplished and proven self-starter, having built my own personal t
 ## Experience
 
 **Codurance, London, UK** (July 2019 - )
-*Software Craftsperson Apprentice*
+*Software Craftsman*
 - Java, XP, Design Patterns, Macro Design, SOLID Principles, AWS, Docker
 
 **Red Gate Software, Cambridge, UK** (Jan 2018 - July 2019)
